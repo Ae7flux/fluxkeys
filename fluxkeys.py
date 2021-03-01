@@ -8758,14 +8758,6 @@ keyconfig_data = \
       },
      ),
     ("object.mode_set_with_submode",
-     {"type": 'EVT_TWEAK_R', "value": 'SOUTH_WEST'},
-     {"properties":
-      [("mode", 'EDIT'),
-       ("mesh_select_mode", {'FACE'}),
-       ],
-      },
-     ),
-    ("object.mode_set_with_submode",
      {"type": 'EVT_TWEAK_R', "value": 'WEST'},
      {"properties":
       [("mode", 'OBJECT'),
@@ -8777,7 +8769,6 @@ keyconfig_data = \
      {"properties":
       [("mode", 'OBJECT'),
        ],
-    "active":False,
       },
      ),
     ("object.mode_set_with_submode",
